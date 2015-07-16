@@ -33,8 +33,8 @@ body {
  * HEADERS
  *********************************************/
 @font-face {
-  font-family: 'Aileron';
-  src: url('/reveal.js/css/aileron/Aileron-Bold.otf') format('opentype');
+  font-family: 'Ugo';
+  src: url('/reveal.js/css/ugo/ugo-line.otf') format('opentype');
 }
 
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
